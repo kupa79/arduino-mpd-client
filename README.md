@@ -1,7 +1,7 @@
 # Arduino MPD Hardware Client
 
 ## Beschreibung:
-* Stand-alone Hardware-Client zur Steuerung des Music Player Daemon.
+* Stand-alone Hardware-Client zur Steuerung des [Music Player Daemon](https://www.musicpd.org/).
 * Bedienung mit (beliebiger) IR-Fernbedienung.
 * Abspiel-Funktionen: Play, Pause, Stop, Next, Prevoius.
 * Info-Funktionen: Anzeige Interpret, Titel, Zeit.
