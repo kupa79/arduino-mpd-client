@@ -25,3 +25,6 @@
 * Hintergrundbeleuchtung für LCD + Vorwiderstand + Transistor
 * IR Receiver TSOP 4838
 * 2 LEDs + Vorwiderstand
+
+## Schaltplan
+![Schaltplan2](./ArduMpdClient_20121028.png)
